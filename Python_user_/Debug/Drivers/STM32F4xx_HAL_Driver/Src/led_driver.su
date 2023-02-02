@@ -1,0 +1,5 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/led_driver.c:10:6:LED_Apps	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/led_driver.c:25:6:LED_On	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/led_driver.c:41:6:LED_Ambulance	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/led_driver.c:65:6:LED_Party	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/led_driver.c:97:6:LED_Off	16	static
